@@ -62,6 +62,6 @@ This project is distributed under the MIT License. See `LICENSE` for more inform
 
 ## 📧 Contact
 
-Thant Thtoo Aung - [thanthtoo1285@gmail.com](mailto:thanthtoo1285@gmail.com)
+Thant Htoo Aung - [thanthtoo1285@gmail.com](mailto:thanthtoo1285@gmail.com)
 
 Project Link: [https://github.com/thanthtooaung-coding/content-management-system-md](https://github.com/thanthtooaung-coding/content-management-system-md)
