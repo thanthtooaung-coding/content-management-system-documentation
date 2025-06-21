@@ -50,7 +50,7 @@ This repository houses all relevant design and planning documents for the CMS.
 
 * **User Stories (`User_Story_*.md`):** A comprehensive list of user stories categorized using the MoSCoW prioritization method (Must-have, Should-have, Could-have, Won't-have). This document drives the development priorities.
 * **Use Case Diagrams:** Visual representations of the interactions between users and the system.
-* **ER Diagram:** The entity-relationship diagram detailing the database schema, including tables, columns, and relationships.
+* **ER Diagrams:** The entity-relationship diagrams detailing the database schema, including tables, columns, and relationships.
 
 ---
 
