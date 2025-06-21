@@ -6,12 +6,12 @@ This repository contains the system documentation for a core Content Management 
 
 ## 📖 Table of Contents
 
-* [About The Project](#about-the-project)
-* [Key Features](#key-features)
-* [User Roles](#user-roles)
-* [System Documentation](#system-documentation)
-* [License](#license)
-* [Contact](#contact)
+* [About The Project](#-about-the-project)
+* [Key Features](#-key-features)
+* [User Roles](#-user-roles)
+* [System Documentation](#-system-documentation)
+* [License](#-license)
+* [Contact](#-contact)
 
 ---
 
